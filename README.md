@@ -16,7 +16,7 @@ Step 5: Now, JDK is installed on your system.
         To check, open terminal (command+space) and type "java -version" and you will be able to see your respective jdk.
 
 
-To setup path for JAVA_HOME...
+**To setup path for JAVA_HOME...**
 
 
 Step 6: First check whether you have /zsh file or /bash file...
