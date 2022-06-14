@@ -29,7 +29,7 @@ Step 8: If not present, type "touch ~/.zshenv" in terminal.
 
 Step 9: If already present, skip step 8 and type "/usr/libexec/java_home" and copy the java_home path.
 
-Step 10: Now type "echo $JAVA_HOME" and check whether the java_home has been set or not.
+Step 10: Now type "echo JAVA_HOME" and check whether the java_home has been set or not.
 
 Step 11: If not set, type "open ~/.zshenv" in terminal. It will open the /.zshenv file.
 
